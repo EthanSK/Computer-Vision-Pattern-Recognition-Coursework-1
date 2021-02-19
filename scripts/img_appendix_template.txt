@@ -1,0 +1,2 @@
+\includegraphics[width=0.8\linewidth]{$1}
+

@@ -1,0 +1,9 @@
+
+img1 = "images/FD/1_obj.JPG"
+img2 = "images/FD/2_obj.JPG"
+
+
+evaluateMatchedPoints('KAZE', autoMatchedPoints1KAZE.Location, autoMatchedPoints2KAZE.Location)
+evaluateMatchedPoints('SURF', autoMatchedPoints1SURF.Location, autoMatchedPoints2SURF.Location)
+evaluateMatchedPoints('BRISK', autoMatchedPoints1BRISK.Location, autoMatchedPoints2BRISK.Location)
+evaluateMatchedPoints('Manual', hotDick, hotPussy)

@@ -1,0 +1,11 @@
+Matched Points: 1970
+mean: 5.760173e+02
+median: 2.739490e+02
+variance: 6.421661e+05
+skew: 2.632533e+00
+
+Used Points: 244
+mean: 2.616713e+00
+median: 1.919697e+00
+variance: 4.948766e+00
+skew: 1.732148e+00

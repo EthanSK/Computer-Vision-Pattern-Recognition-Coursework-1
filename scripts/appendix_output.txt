@@ -1,0 +1,30 @@
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{images/depth/map-6.25.png}
+    \caption*{Depth map at 6.25\% original size}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{images/depth/map-12.5.png}
+    \caption*{Depth map at 12.5\% original size}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{images/depth/map-50.png}
+    \caption*{Depth map at 50\% original size}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{images/depth/map-100.png}
+    \caption*{Depth map at 100\% original size}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{images/depth/map-25.png}
+    \caption*{Depth map at 25\% original size}
+\end{figure}
+

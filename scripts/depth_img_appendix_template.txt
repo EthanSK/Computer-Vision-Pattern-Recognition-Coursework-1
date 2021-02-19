@@ -1,0 +1,6 @@
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{$1}
+    \caption*{Depth map at $2 original size}
+\end{figure}
+
